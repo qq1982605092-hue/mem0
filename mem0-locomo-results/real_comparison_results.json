@@ -1,0 +1,68 @@
+[
+  {
+    "dialog_id": 0,
+    "question_id": 0,
+    "question": "在这次Cognitive Behavioral Therapy治疗中，讨论的主要话题是什么？",
+    "correct_answer": "Child-Parent Relationship Issues",
+    "category": 1,
+    "baseline_answer": "在这次Cognitive Behavioral Therapy治疗中，讨论的主要话题是童年经历对自我认知和情感的影响，特别是父亲的教导和宗教内疚感对来访者的影响。",
+    "mem0_answer": "在这次Cognitive Behavioral Therapy治疗中，讨论的主要话题是来访者对童年经历的反思，特别是与父亲的关系以及父亲对她的影响。来访者希望通过与十岁时的自己对话，帮助她认识到父亲所传达的宗教内疚感是误导性的，并鼓励她对这些负面影响保持警觉。这个过程旨在促进自我理解和情感的释放。",
+    "therapy_type": "Cognitive Behavioral Therapy",
+    "topic": "Child-Parent Relationship Issues"
+  },
+  {
+    "dialog_id": 0,
+    "question_id": 1,
+    "question": "来访者在对话开始时是如何回应治疗师的？",
+    "correct_answer": "是的，我想我可以。",
+    "category": 2,
+    "baseline_answer": "来访者表示她可以想象自己坐上时间机器回到过去，遇见小时候的自己。",
+    "mem0_answer": "来访者在对话开始时回应治疗师说：“是的，我想我可以。”这表明她能够想象自己坐上时间机器回到过去，并遇见小时候的自己。",
+    "therapy_type": "Cognitive Behavioral Therapy",
+    "topic": "Child-Parent Relationship Issues"
+  },
+  {
+    "dialog_id": 1,
+    "question_id": 0,
+    "question": "在这次Cognitive Behavioral Therapy治疗中，讨论的主要话题是什么？",
+    "correct_answer": "Appearance Anxiety",
+    "category": 1,
+    "baseline_answer": "在这次Cognitive Behavioral Therapy治疗中，讨论的主要话题是来访者的饮食习惯、运动不足以及逃避行为，治疗师建议来访者建立合理的饮食习惯和锻炼计划，同时鼓励她面对自己的情绪和决策。",
+    "mem0_answer": "在这次认知行为疗法（Cognitive Behavioral Therapy）治疗中，讨论的主要话题是来访者的饮食习惯、体重管理以及与情绪和决策相关的逃避行为。治疗师强调了来访者在饮食和锻炼方面存在的问题，并建议建立合理的饮食习惯和运动计划。同时，治疗师还探讨了来访者在生活中受到父亲和丈夫影响的情况，鼓励她开始做出自己的决定，成为自己生活的主导者。整体上，治疗的重点在于帮助来访者认识到自己的逃避行为，并推动她采取积极的改变。",
+    "therapy_type": "Cognitive Behavioral Therapy",
+    "topic": "Appearance Anxiety"
+  },
+  {
+    "dialog_id": 1,
+    "question_id": 1,
+    "question": "来访者在对话开始时是如何回应治疗师的？",
+    "correct_answer": "也许我应该再减一次肥。",
+    "category": 2,
+    "baseline_answer": "来访者在对话开始时回应治疗师表示自己可能应该再减一次肥。",
+    "mem0_answer": "来访者在对话开始时回应治疗师时表示：“也许我应该再减一次肥。”这表明她对自己的饮食和体重问题有一定的认识，并考虑再次尝试减肥。",
+    "therapy_type": "Cognitive Behavioral Therapy",
+    "topic": "Appearance Anxiety"
+  },
+  {
+    "dialog_id": 2,
+    "question_id": 0,
+    "question": "在这次Cognitive Behavioral Therapy治疗中，讨论的主要话题是什么？",
+    "correct_answer": "Child-Parent Relationship Issues",
+    "category": 1,
+    "baseline_answer": "在这次Cognitive Behavioral Therapy治疗中，讨论的主要话题是来访者对自己童年经历的反思，以及对小女孩的指导和支持，特别是在宗教和罪行观念上的影响。",
+    "mem0_answer": "在这次Cognitive Behavioral Therapy（CBT）治疗中，讨论的主要话题是来访者对自己童年经历的反思，特别是与父亲的关系以及对宗教和罪行的看法。来访者通过与自己6岁时的自我对话，表达了对过去信念的质疑，尤其是关于宗教和罪行的全盘接受。治疗师引导来访者回忆和理解这些经历，以帮助她更好地处理和解读自己的情感和信念。",
+    "therapy_type": "Cognitive Behavioral Therapy",
+    "topic": "Child-Parent Relationship Issues"
+  },
+  {
+    "dialog_id": 2,
+    "question_id": 1,
+    "question": "来访者在对话开始时是如何回应治疗师的？",
+    "correct_answer": "（坚定地点头）哦，是的，我能看到她。",
+    "category": 2,
+    "baseline_answer": "来访者坚定地点头，表示能够想象出场景。",
+    "mem0_answer": "来访者在对话开始时坚定地点头，表示她能够想象出治疗师所描述的场景。",
+    "therapy_type": "Cognitive Behavioral Therapy",
+    "topic": "Child-Parent Relationship Issues"
+  }
+]

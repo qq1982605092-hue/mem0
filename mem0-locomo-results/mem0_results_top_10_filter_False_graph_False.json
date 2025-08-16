@@ -1,0 +1,403 @@
+{
+    "0": [
+        {
+            "question": "\u5728\u8fd9\u6b21Cognitive Behavioral Therapy\u6cbb\u7597\u4e2d\uff0c\u8ba8\u8bba\u7684\u4e3b\u8981\u8bdd\u9898\u662f\u4ec0\u4e48\uff1f",
+            "answer": "Child-Parent Relationship Issues",
+            "category": 1,
+            "evidence": [
+                "D000001:topic"
+            ],
+            "response": "\u7236\u4eb2\u7684\u8bef\u5bfc\u548c\u5b97\u6559\u7f6a\u6076\u611f\u3002",
+            "adversarial_answer": "",
+            "speaker_1_memories": [
+                {
+                    "memory": "The user believes that their father misled them and wants to warn their childhood self about the religious guilt imposed by their father.",
+                    "timestamp": "Cognitive Behavioral Therapy - Early Session - Dialog 000001",
+                    "score": 0.42
+                },
+                {
+                    "memory": "The user wishes to see their ten-year-old self.",
+                    "timestamp": "Cognitive Behavioral Therapy - Early Session - Dialog 000001",
+                    "score": 0.37
+                }
+            ],
+            "speaker_2_memories": [
+                {
+                    "memory": "The user wishes to see their ten-year-old self and believes they can envision this scenario. They would tell their younger self that her father misled her and that she should be cautious of the religious guilt imposed by him.",
+                    "timestamp": "Cognitive Behavioral Therapy - Early Session - Dialog 000001",
+                    "score": 0.41
+                }
+            ],
+            "num_speaker_1_memories": 2,
+            "num_speaker_2_memories": 1,
+            "speaker_1_memory_time": 0.3591005802154541,
+            "speaker_2_memory_time": 0.4541325569152832,
+            "speaker_1_graph_memories": null,
+            "speaker_2_graph_memories": null,
+            "response_time": 3.743419647216797
+        },
+        {
+            "question": "\u6765\u8bbf\u8005\u5728\u5bf9\u8bdd\u5f00\u59cb\u65f6\u662f\u5982\u4f55\u56de\u5e94\u6cbb\u7597\u5e08\u7684\uff1f",
+            "answer": "\u662f\u7684\uff0c\u6211\u60f3\u6211\u53ef\u4ee5\u3002",
+            "category": 2,
+            "evidence": [
+                "0-1"
+            ],
+            "response": "\u60f3\u89c1\u5341\u5c81\u65f6\u7684\u81ea\u5df1\u3002",
+            "adversarial_answer": "",
+            "speaker_1_memories": [
+                {
+                    "memory": "The user believes that their father misled them and wants to warn their childhood self about the religious guilt imposed by their father.",
+                    "timestamp": "Cognitive Behavioral Therapy - Early Session - Dialog 000001",
+                    "score": 0.35
+                },
+                {
+                    "memory": "The user wishes to see their ten-year-old self.",
+                    "timestamp": "Cognitive Behavioral Therapy - Early Session - Dialog 000001",
+                    "score": 0.32
+                }
+            ],
+            "speaker_2_memories": [
+                {
+                    "memory": "The user wishes to see their ten-year-old self and believes they can envision this scenario. They would tell their younger self that her father misled her and that she should be cautious of the religious guilt imposed by him.",
+                    "timestamp": "Cognitive Behavioral Therapy - Early Session - Dialog 000001",
+                    "score": 0.35
+                }
+            ],
+            "num_speaker_1_memories": 2,
+            "num_speaker_2_memories": 1,
+            "speaker_1_memory_time": 0.3423314094543457,
+            "speaker_2_memory_time": 0.37191152572631836,
+            "speaker_1_graph_memories": null,
+            "speaker_2_graph_memories": null,
+            "response_time": 2.743340253829956
+        },
+        {
+            "question": "\u6765\u8bbf\u8005\u5728\u5bf9\u8bdd\u4e2d\u4e3b\u8981\u8868\u73b0\u51fa\u4ec0\u4e48\u60c5\u611f\u72b6\u6001\uff1f",
+            "answer": "Neutral",
+            "category": 2,
+            "evidence": [
+                "0-1",
+                "0-3"
+            ],
+            "response": "Caution and reflection.",
+            "adversarial_answer": "",
+            "speaker_1_memories": [
+                {
+                    "memory": "The user believes that their father misled them and wants to warn their childhood self about the religious guilt imposed by their father.",
+                    "timestamp": "Cognitive Behavioral Therapy - Early Session - Dialog 000001",
+                    "score": 0.35
+                },
+                {
+                    "memory": "The user wishes to see their ten-year-old self.",
+                    "timestamp": "Cognitive Behavioral Therapy - Early Session - Dialog 000001",
+                    "score": 0.32
+                }
+            ],
+            "speaker_2_memories": [
+                {
+                    "memory": "The user wishes to see their ten-year-old self and believes they can envision this scenario. They would tell their younger self that her father misled her and that she should be cautious of the religious guilt imposed by him.",
+                    "timestamp": "Cognitive Behavioral Therapy - Early Session - Dialog 000001",
+                    "score": 0.36
+                }
+            ],
+            "num_speaker_1_memories": 2,
+            "num_speaker_2_memories": 1,
+            "speaker_1_memory_time": 0.36721014976501465,
+            "speaker_2_memory_time": 0.3731539249420166,
+            "speaker_1_graph_memories": null,
+            "speaker_2_graph_memories": null,
+            "response_time": 3.519735097885132
+        },
+        {
+            "question": "\u6cbb\u7597\u5e08\u5728\u8fd9\u6b21\u5bf9\u8bdd\u4e2d\u4e3b\u8981\u4f7f\u7528\u4e86\u4ec0\u4e48\u6cbb\u7597\u6280\u672f\uff1f",
+            "answer": "Question\u3001Role-play",
+            "category": 3,
+            "evidence": [
+                "D000001:strategies"
+            ],
+            "response": "Cognitive Behavioral Therapy",
+            "adversarial_answer": "",
+            "speaker_1_memories": [
+                {
+                    "memory": "The user believes that their father misled them and wants to warn their childhood self about the religious guilt imposed by their father.",
+                    "timestamp": "Cognitive Behavioral Therapy - Early Session - Dialog 000001",
+                    "score": 0.34
+                },
+                {
+                    "memory": "The user wishes to see their ten-year-old self.",
+                    "timestamp": "Cognitive Behavioral Therapy - Early Session - Dialog 000001",
+                    "score": 0.33
+                }
+            ],
+            "speaker_2_memories": [
+                {
+                    "memory": "The user wishes to see their ten-year-old self and believes they can envision this scenario. They would tell their younger self that her father misled her and that she should be cautious of the religious guilt imposed by him.",
+                    "timestamp": "Cognitive Behavioral Therapy - Early Session - Dialog 000001",
+                    "score": 0.35
+                }
+            ],
+            "num_speaker_1_memories": 2,
+            "num_speaker_2_memories": 1,
+            "speaker_1_memory_time": 0.3754844665527344,
+            "speaker_2_memory_time": 0.39676880836486816,
+            "speaker_1_graph_memories": null,
+            "speaker_2_graph_memories": null,
+            "response_time": 3.7962639331817627
+        },
+        {
+            "question": "\u6839\u636e\u5bf9\u8bdd\u5185\u5bb9\u548c\u80cc\u666f\u4fe1\u606f\uff0c\u6765\u8bbf\u8005\u7684\u6838\u5fc3\u5fc3\u7406\u8bae\u9898\u662f\u4ec0\u4e48\uff1f",
+            "answer": "\u6765\u8bbf\u8005\u662f\u4e00\u4e2a\u6b63\u5728\u63a5\u53d7\u591a\u6a21\u5f0f\u884c\u4e3a\u4e3b\u4e49\u6cbb\u7597\u7684\u4e2a\u4f53\uff0c\u9762\u4e34\u7740\u7126\u8651\u3001\u60c5\u611f\u95ee\u9898\u548c\u81ea\u6211\u8ba4\u77e5\u65b9\u9762\u7684\u6311\u6218\u3002\u5979\u53ef\u80fd\u6b63\u5728\u5bfb\u6c42\u6539\u53d8\u8d1f\u9762\u884c\u4e3a\u6a21\u5f0f\u3001\u7f13\u89e3\u7d27\u5f20\u548c\u75be\u60a3\u3001\u589e\u5f3a\u81ea\u6211\u63a7\u5236\u7684\u5e2e\u52a9\u3002",
+            "category": 4,
+            "evidence": [
+                "D000001:background",
+                "D000001:analysis"
+            ],
+            "response": "\u7236\u4eb2\u7684\u8bef\u5bfc\u4e0e\u5b97\u6559\u8d1f\u7f6a\u611f\u3002",
+            "adversarial_answer": "",
+            "speaker_1_memories": [
+                {
+                    "memory": "The user believes that their father misled them and wants to warn their childhood self about the religious guilt imposed by their father.",
+                    "timestamp": "Cognitive Behavioral Therapy - Early Session - Dialog 000001",
+                    "score": 0.35
+                }
+            ],
+            "speaker_2_memories": [
+                {
+                    "memory": "The user wishes to see their ten-year-old self and believes they can envision this scenario. They would tell their younger self that her father misled her and that she should be cautious of the religious guilt imposed by him.",
+                    "timestamp": "Cognitive Behavioral Therapy - Early Session - Dialog 000001",
+                    "score": 0.33
+                }
+            ],
+            "num_speaker_1_memories": 1,
+            "num_speaker_2_memories": 1,
+            "speaker_1_memory_time": 0.34564924240112305,
+            "speaker_2_memory_time": 0.3997364044189453,
+            "speaker_1_graph_memories": null,
+            "speaker_2_graph_memories": null,
+            "response_time": 3.761767864227295
+        }
+    ],
+    "1": [
+        {
+            "question": "\u5728\u8fd9\u6b21Cognitive Behavioral Therapy\u6cbb\u7597\u4e2d\uff0c\u8ba8\u8bba\u7684\u4e3b\u8981\u8bdd\u9898\u662f\u4ec0\u4e48\uff1f",
+            "answer": "Appearance Anxiety",
+            "category": 1,
+            "evidence": [
+                "D000002:topic"
+            ],
+            "response": "Weight loss and decision-making.",
+            "adversarial_answer": "",
+            "speaker_1_memories": [
+                {
+                    "memory": "The user feels weak and panicked, describing themselves as someone who struggles to make decisions.",
+                    "timestamp": "Cognitive Behavioral Therapy - Regular Session - Dialog 000002",
+                    "score": 0.4
+                },
+                {
+                    "memory": "The user is uncertain about the potential changes that may occur if they adopt a more open approach, and they believe their father would not agree with this change.",
+                    "timestamp": "Cognitive Behavioral Therapy - Regular Session - Dialog 000002",
+                    "score": 0.4
+                },
+                {
+                    "memory": "The user has been struggling with weight loss and has a tendency to give up on their diet plans, leading to weight gain that exceeds their previous weight loss. They are interested in developing reasonable eating habits. A nutritionist has provided them with a food list of items to eat less or avoid altogether, and the user is willing to take this list home and try to eliminate some of these foods from their daily diet.",
+                    "timestamp": "Cognitive Behavioral Therapy - Regular Session - Dialog 000002",
+                    "score": 0.38
+                },
+                {
+                    "memory": "The user is aware of a weight loss center near their home and often passes by it.",
+                    "timestamp": "Cognitive Behavioral Therapy - Regular Session - Dialog 000002",
+                    "score": 0.34
+                }
+            ],
+            "speaker_2_memories": [
+                {
+                    "memory": "The client is uncertain about their father's approval regarding their potential changes in behavior.",
+                    "timestamp": "Cognitive Behavioral Therapy - Regular Session - Dialog 000002",
+                    "score": 0.43
+                },
+                {
+                    "memory": "The user feels weak and panicked, describing themselves as hopeless and unable to make any decisions lately.",
+                    "timestamp": "Cognitive Behavioral Therapy - Regular Session - Dialog 000002",
+                    "score": 0.4
+                },
+                {
+                    "memory": "The client is aware of a weight loss center near their home and often passes by it.",
+                    "timestamp": "Cognitive Behavioral Therapy - Regular Session - Dialog 000002",
+                    "score": 0.37
+                },
+                {
+                    "memory": "The user is considering losing weight again.",
+                    "timestamp": "Cognitive Behavioral Therapy - Regular Session - Dialog 000002",
+                    "score": 0.34
+                },
+                {
+                    "memory": "The client is willing to engage in walking exercise for at least three times a week, covering two to three kilometers each time.",
+                    "timestamp": "Cognitive Behavioral Therapy - Regular Session - Dialog 000002",
+                    "score": 0.33
+                }
+            ],
+            "num_speaker_1_memories": 4,
+            "num_speaker_2_memories": 5,
+            "speaker_1_memory_time": 0.36701297760009766,
+            "speaker_2_memory_time": 0.3787064552307129,
+            "speaker_1_graph_memories": null,
+            "speaker_2_graph_memories": null,
+            "response_time": 3.048247814178467
+        },
+        {
+            "question": "\u6765\u8bbf\u8005\u5728\u5bf9\u8bdd\u5f00\u59cb\u65f6\u662f\u5982\u4f55\u56de\u5e94\u6cbb\u7597\u5e08\u7684\uff1f",
+            "answer": "\u4e5f\u8bb8\u6211\u5e94\u8be5\u518d\u51cf\u4e00\u6b21\u80a5\u3002",
+            "category": 2,
+            "evidence": [
+                "1-1"
+            ],
+            "response": "Uncertain about father's approval.",
+            "adversarial_answer": "",
+            "speaker_1_memories": [
+                {
+                    "memory": "The user is uncertain about the potential changes that may occur if they adopt a more open approach, and they believe their father would not agree with this change.",
+                    "timestamp": "Cognitive Behavioral Therapy - Regular Session - Dialog 000002",
+                    "score": 0.39
+                },
+                {
+                    "memory": "The user feels weak and panicked, describing themselves as someone who struggles to make decisions.",
+                    "timestamp": "Cognitive Behavioral Therapy - Regular Session - Dialog 000002",
+                    "score": 0.38
+                },
+                {
+                    "memory": "The user has been struggling with weight loss and has a tendency to give up on their diet plans, leading to weight gain that exceeds their previous weight loss. They are interested in developing reasonable eating habits. A nutritionist has provided them with a food list of items to eat less or avoid altogether, and the user is willing to take this list home and try to eliminate some of these foods from their daily diet.",
+                    "timestamp": "Cognitive Behavioral Therapy - Regular Session - Dialog 000002",
+                    "score": 0.31
+                }
+            ],
+            "speaker_2_memories": [
+                {
+                    "memory": "The client is uncertain about their father's approval regarding their potential changes in behavior.",
+                    "timestamp": "Cognitive Behavioral Therapy - Regular Session - Dialog 000002",
+                    "score": 0.41
+                },
+                {
+                    "memory": "The user feels weak and panicked, describing themselves as hopeless and unable to make any decisions lately.",
+                    "timestamp": "Cognitive Behavioral Therapy - Regular Session - Dialog 000002",
+                    "score": 0.37
+                },
+                {
+                    "memory": "The client is aware of a weight loss center near their home and often passes by it.",
+                    "timestamp": "Cognitive Behavioral Therapy - Regular Session - Dialog 000002",
+                    "score": 0.33
+                },
+                {
+                    "memory": "The client is willing to engage in walking exercise for at least three times a week, covering two to three kilometers each time.",
+                    "timestamp": "Cognitive Behavioral Therapy - Regular Session - Dialog 000002",
+                    "score": 0.32
+                }
+            ],
+            "num_speaker_1_memories": 3,
+            "num_speaker_2_memories": 4,
+            "speaker_1_memory_time": 0.33873844146728516,
+            "speaker_2_memory_time": 0.37244248390197754,
+            "speaker_1_graph_memories": null,
+            "speaker_2_graph_memories": null,
+            "response_time": 2.598431348800659
+        },
+        {
+            "question": "\u6765\u8bbf\u8005\u5728\u5bf9\u8bdd\u4e2d\u4e3b\u8981\u8868\u73b0\u51fa\u4ec0\u4e48\u60c5\u611f\u72b6\u6001\uff1f",
+            "answer": "Anxiety",
+            "category": 2,
+            "evidence": [
+                "1-12",
+                "1-14"
+            ],
+            "response": "Weak and panicked.",
+            "adversarial_answer": "",
+            "speaker_1_memories": [
+                {
+                    "memory": "The user is uncertain about the potential changes that may occur if they adopt a more open approach, and they believe their father would not agree with this change.",
+                    "timestamp": "Cognitive Behavioral Therapy - Regular Session - Dialog 000002",
+                    "score": 0.36
+                },
+                {
+                    "memory": "The user feels weak and panicked, describing themselves as someone who struggles to make decisions.",
+                    "timestamp": "Cognitive Behavioral Therapy - Regular Session - Dialog 000002",
+                    "score": 0.34
+                }
+            ],
+            "speaker_2_memories": [
+                {
+                    "memory": "The user feels weak and panicked, describing themselves as hopeless and unable to make any decisions lately.",
+                    "timestamp": "Cognitive Behavioral Therapy - Regular Session - Dialog 000002",
+                    "score": 0.35
+                },
+                {
+                    "memory": "The client is uncertain about their father's approval regarding their potential changes in behavior.",
+                    "timestamp": "Cognitive Behavioral Therapy - Regular Session - Dialog 000002",
+                    "score": 0.34
+                }
+            ],
+            "num_speaker_1_memories": 2,
+            "num_speaker_2_memories": 2,
+            "speaker_1_memory_time": 0.3829472064971924,
+            "speaker_2_memory_time": 0.36374783515930176,
+            "speaker_1_graph_memories": null,
+            "speaker_2_graph_memories": null,
+            "response_time": 2.881650924682617
+        },
+        {
+            "question": "\u6cbb\u7597\u5e08\u5728\u8fd9\u6b21\u5bf9\u8bdd\u4e2d\u4e3b\u8981\u4f7f\u7528\u4e86\u4ec0\u4e48\u6cbb\u7597\u6280\u672f\uff1f",
+            "answer": "Providing Suggestions\u3001Question\u3001Information",
+            "category": 3,
+            "evidence": [
+                "D000002:strategies"
+            ],
+            "response": "\u8ba4\u77e5\u884c\u4e3a\u7597\u6cd5",
+            "adversarial_answer": "",
+            "speaker_1_memories": [
+                {
+                    "memory": "The user is uncertain about the potential changes that may occur if they adopt a more open approach, and they believe their father would not agree with this change.",
+                    "timestamp": "Cognitive Behavioral Therapy - Regular Session - Dialog 000002",
+                    "score": 0.38
+                },
+                {
+                    "memory": "The user feels weak and panicked, describing themselves as someone who struggles to make decisions.",
+                    "timestamp": "Cognitive Behavioral Therapy - Regular Session - Dialog 000002",
+                    "score": 0.38
+                },
+                {
+                    "memory": "The user has been struggling with weight loss and has a tendency to give up on their diet plans, leading to weight gain that exceeds their previous weight loss. They are interested in developing reasonable eating habits. A nutritionist has provided them with a food list of items to eat less or avoid altogether, and the user is willing to take this list home and try to eliminate some of these foods from their daily diet.",
+                    "timestamp": "Cognitive Behavioral Therapy - Regular Session - Dialog 000002",
+                    "score": 0.31
+                }
+            ],
+            "speaker_2_memories": [
+                {
+                    "memory": "The client is uncertain about their father's approval regarding their potential changes in behavior.",
+                    "timestamp": "Cognitive Behavioral Therapy - Regular Session - Dialog 000002",
+                    "score": 0.4
+                },
+                {
+                    "memory": "The user feels weak and panicked, describing themselves as hopeless and unable to make any decisions lately.",
+                    "timestamp": "Cognitive Behavioral Therapy - Regular Session - Dialog 000002",
+                    "score": 0.38
+                },
+                {
+                    "memory": "The client is aware of a weight loss center near their home and often passes by it.",
+                    "timestamp": "Cognitive Behavioral Therapy - Regular Session - Dialog 000002",
+                    "score": 0.32
+                },
+                {
+                    "memory": "The client is willing to engage in walking exercise for at least three times a week, covering two to three kilometers each time.",
+                    "timestamp": "Cognitive Behavioral Therapy - Regular Session - Dialog 000002",
+                    "score": 0.31
+                }
+            ],
+            "num_speaker_1_memories": 3,
+            "num_speaker_2_memories": 4,
+            "speaker_1_memory_time": 0.343914270401001,
+            "speaker_2_memory_time": 0.41123175621032715,
+            "speaker_1_graph_memories": null,
+            "speaker_2_graph_memories": null,
+            "response_time": 2.6805999279022217
+        }
+    ]
+}
