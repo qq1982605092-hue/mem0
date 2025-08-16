@@ -1,0 +1,9 @@
+Career_mem0
+Round 1, Score: [8, 8, 8, 9]
+Round 2, Score: [8, 8, 8, 9]
+Round 3, Score: [8, 8, 9, 9]
+Round 4, Score: [8, 9, 9, 10]
+Round 5, Score: [9, 9, 9, 10]
+Round 6, Score: [9, 9, 9, 10]
+Round 7, Score: [9, 9, 9, 10]
+Average Scores: [8.43, 8.57, 8.71, 9.57]
